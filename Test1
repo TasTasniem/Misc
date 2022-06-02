@@ -1,2 +1,19 @@
+using system
 
-
+namespace hh
+{
+  class main
+  {
+    
+    var zz = new Person() { h = 1}
+  }
+  
+  void class bb ( Person p)
+  {
+    p.k;
+    p.h
+    
+    
+  }
+  
+}
